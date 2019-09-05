@@ -1,7 +1,7 @@
 ## CAPITULO 5 DEL CURSO  
-ete es el ejercicio
-Recuerden los instalar los Paquetes de NODE
-
+este es el ejercicio
+Recuerden instalar los Paquetes de NODE
+argv y colors
 
 ```
 npm install
